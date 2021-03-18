@@ -12,7 +12,7 @@
 - 🚀 &nbsp; I’m currently working on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harishkoninti).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harish-k-40a078199/)! I am happy to help.
-- 📫 &nbsp; How to reach me: [Gmail](koninti9@gmail.com).
+- 📫 &nbsp; How to reach me: koninti9@gmail.com
 <!--
 **harishkoninti/harishkoninti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

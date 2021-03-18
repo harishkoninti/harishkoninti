@@ -11,6 +11,7 @@
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc..
 - 🚀 &nbsp; I’m currently working on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harishkoninti).
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harish-k-40a078199/)! I am happy to help.
 - 📫 &nbsp; How to reach me: koninti9@gmail.com
 
@@ -37,6 +38,46 @@
 
 ---
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkoninti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkoninti&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+  </table>
+  <br />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04 LTS</li>
+	    <li><b>Laptop: </b> HP </li>
+  	    <li><b>Browser: </b> Google Chrome</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	</ul>
+</details>
 
 
 <!--

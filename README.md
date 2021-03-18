@@ -1,4 +1,4 @@
-### Hi there, I'm Harish K
+### Hi there, I'm [Harish K](https://github.com/harishkoninti)👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harish-k-40a078199/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/harishkoninti)
@@ -8,12 +8,11 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc..
+- 🚀 &nbsp; I’m currently working on Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harishkoninti).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/harish-k-40a078199/)! I am happy to help.
+- 📫 &nbsp; How to reach me: [Gmail](koninti9@gmail.com).
 <!--
 **harishkoninti/harishkoninti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

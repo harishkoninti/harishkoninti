@@ -38,7 +38,7 @@
 
 <br />
 <br />
-<a href="https://app.daily.dev/harishk_78"><img src="https://api.daily.dev/devcards/880257d7877c49b484afbb6a1e2fb356.png?r=3af" width="400" alt="K Harish's Dev Card"/></a>
+
 ---
 
 ### Projects and Dev Stuffs:

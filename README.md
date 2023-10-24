@@ -9,7 +9,7 @@
 
  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and I'm currently into Full Stack Web Development(MERN)🕸️. I’ve built applications from the ground-up using React,Node,Express,MongoDB 🤓.
 
-## I'm a FrontEnd Developer!!
+## I'm a Fullstack Developer!!
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc..
 - 🚀 &nbsp; I’m currently working on Full Stack Development.

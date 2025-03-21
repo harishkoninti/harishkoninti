@@ -69,19 +69,6 @@
   <br />
 </details>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04 LTS</li>
-	    <li><b>Laptop: </b> HP </li>
-  	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	</ul>
-</details>
-
 
 <!--
 **harishkoninti/harishkoninti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
